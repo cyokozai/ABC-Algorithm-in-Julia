@@ -152,8 +152,8 @@ function ABC(flowers::Matrix{Float64})
         println("OK.")
 
         end_time = now()
-
-        println("===================================================================================")
+        
+        println("-----------------------------------------------------------------------------------")
         lookScore(g, Dates.value(end_time - start_time) / 1000)
 
         if abs(fitness(best_solution) - SOLUTION) < ε
