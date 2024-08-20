@@ -1,5 +1,5 @@
 """
-Calculation of Cellular Automaton.
+Calculation of ABC.
 By Rosenbrock function.
 """
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
